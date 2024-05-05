@@ -1,4 +1,4 @@
-# ECON 4200 - Monetary Economics
+# Monetary Economics
 
 <p align="center">
   <img src="e4200.jpg" alt="awww" width="50%" height="50%">
