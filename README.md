@@ -12,8 +12,7 @@ TBA.
 
 ## Conventional Money and Banking
 
-* [Lecture 0: Understanding the Market](/pdf/E3120Slides0.pdf)
-* [Lecture 1: Economics: Foundations and Models](/pdf/E3120Slides1.pdf)
+* [Lecture 1: An Introduction to Money and the Financial System](/pdf/lec1.pdf)
 * [Lecture 2: GDP: Measuring Total Production and Income](/pdf/E3120Slides2.pdf)
 * [Lecture 3: Unemployment and Inflation](/pdf/E3120Slides3.pdf)
 * [Lecture 4: Economic Growth, Financial System, and Business Cycles](/pdf/E3120Slides4.pdf)
