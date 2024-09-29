@@ -12,20 +12,19 @@ TBA.
 
 ## Conventional Money and Banking
 
-* [Lecture 1: An Introduction to Money and the Financial System](/pdf/lec1.pdf)
+* [Lecture 1: An Introduction to Money and Financial System](/pdf/lec1.pdf)
 * [Lecture 2: Future Value, Present Value, and Interest Rates](/pdf/lec2.pdf)
 * [Lecture 3: Understanding Risk](/pdf/lec3.pdf)
-* [Lecture 4: Economic Growth, Financial System, and Business Cycles](/pdf/E3120Slides4.pdf)
-* [Lecture 5: The Facts of Growth](/pdf/E3120Slides5.pdf)
-* [Lecture 6: Aggregate Expenditure and Output in the Short Run](/pdf/E3120Slides6.pdf)
-* [Lecture 7: Money, Banks, and Federal Reserve System](/pdf/E3120Slides7.pdf)
-* [Lecture 8: Goods and Financial Markets: The IS-LM Model](/pdf/E3120Slides8.pdf)
-* [Lecture 9: Aggregate Demand and Aggregate Supply Analysis](/pdf/E3120Slides9.pdf)
-* [Lecture 10: Monetary Policy](/pdf/E3120Slides10.pdf)
-* [Lecture 11: Fiscal Policy](/pdf/E3120Slides11.pdf)
-* [Lecture 12: Inflation, Unemployment, and Federal Reserve Policy](/pdf/E3120Slides12.pdf)
-* [Lecture 13: Macroeconomics in Open Economy](/pdf/E3120Slides13.pdf)
-* [List of equations](/pdf/Equations.pdf)
+* [Lecture 4: Bonds, Bond Prices, and Determination of Interest Rates](/pdf/lec4.pdf)
+* [Lecture 5: Risk and Term Structure of Interest Rates](/pdf/lec5.pdf)
+* [Lecture 6: Stocks, Stock Markets, and Market Efficiency](/pdf/lec6.pdf)
+* [Lecture 7: Foreign Exchange](/pdf/lec7.pdf)
+* [Lecture 8: Central Bank Balance Sheet and Money Supply Process](/pdf/lec8.pdf)
+* [Lecture 9: Monetary Policy: Stabilizing Domestic Economy](/pdf/lec9.pdf)
+* [Lecture 10: Exchange-Rate Policy and Central Bank](/pdf/lec10.pdf)
+* [Lecture 11: Money Growth, Money Demand, and Modern Monetary Policy](/pdf/lec11.pdf)
+* [Lecture 12: A Simple Model of Money](/pdf/lec12.pdf)
+* [Math Refresher](/pdf/app.pdf)
 
 ## Blockchain and Money
 
