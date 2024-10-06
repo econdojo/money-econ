@@ -8,9 +8,9 @@ TBA.
 
 ## Class Information
 
-* [Fall 2024 Syllabus](/pdf/E3120syllabus.pdf)
+* [Spring 2025 Syllabus](/pdf/E4200syllabus.pdf)
 * **Location:** Cook Hall 236
-* **Time:** MWF 10:00am-11:50am
+* **Time:** MWF 9:30am-10:45am
 * **Office hours:** MW 2:00pm-3:00pm & by appointment
 * **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P)
 * **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
