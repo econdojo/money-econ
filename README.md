@@ -16,7 +16,7 @@ TBA.
 * **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt)
 * **Zoom:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo)
 
-## Conventional Money and Banking
+## Lecture Slides
 
 * [Lecture 1: An Introduction to Money and Financial System](/pdf/lec1.pdf)
 * [Lecture 2: Future Value, Present Value, and Interest Rates](/pdf/lec2.pdf)
@@ -30,9 +30,6 @@ TBA.
 * [Lecture 10: Exchange-Rate Policy and Central Bank](/pdf/lec10.pdf)
 * [Lecture 11: Money Growth, Money Demand, and Modern Monetary Policy](/pdf/lec11.pdf)
 * [Lecture 12: A Simple Model of Money](/pdf/lec12.pdf)
-* [Supplementary: Fiscal Theory of Price Level](https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1) (by Cochrane)
+* [Supplementary: Fiscal Theory of Price Level](https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1) (by John Cochrane)
+* [Supplementary: Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018) (by Gary Gensler)
 * [Math Refresher](/pdf/app.pdf)
-
-## Blockchain and Money
-
-TBA.
