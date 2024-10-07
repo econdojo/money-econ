@@ -30,6 +30,7 @@ TBA.
 * [Lecture 10: Exchange-Rate Policy and Central Bank](/pdf/lec10.pdf)
 * [Lecture 11: Money Growth, Money Demand, and Modern Monetary Policy](/pdf/lec11.pdf)
 * [Lecture 12: A Simple Model of Money](/pdf/lec12.pdf)
+* [Supplementary: Fiscal Theory of Price Level](https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1) (by Cochrane)
 * [Math Refresher](/pdf/app.pdf)
 
 ## Blockchain and Money
