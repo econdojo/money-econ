@@ -24,7 +24,6 @@ This course provides an in-depth study of money, commercial banking, and monetar
 * [Lecture 8: Central Bank Balance Sheet and Money Supply Process](/pdf/lec8.pdf)
 * [Lecture 9: Monetary Policy: Stabilizing Domestic Economy](/pdf/lec9.pdf)
 * [Lecture 10: Exchange-Rate Policy and Central Bank](/pdf/lec10.pdf)
-* [Lecture 11: Money Growth, Money Demand, and Modern Monetary Policy](/pdf/lec11.pdf)
 * [Supplementary: Fiscal Theory of Price Level](https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1) (by John Cochrane)
 * [Supplementary: Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018) (by Gary Gensler)
 * [Math Refresher](/pdf/app.pdf)
